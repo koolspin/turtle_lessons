@@ -1,0 +1,12 @@
+#
+This is a sample file that you can play around with.
+This will get you comfortable with using a text editor.
+
+Some things to try are:
+
+* Copy
+* Paste
+* Delete
+
+Have fun!
+
