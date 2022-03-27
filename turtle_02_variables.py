@@ -9,7 +9,7 @@ t.color("blue", "blue")
 t.speed("slowest")
 
 # Here we set two variables
-box_side = 300
+box_side = 400
 right_angle = 90
 
 # To Draw a box:
